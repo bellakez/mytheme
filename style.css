@@ -1,0 +1,14 @@
+/* 
+Theme Name:    unesco
+Template:    twentynineteen
+Version:      1.0.3
+Description:  Twenty Nineteen Child Theme
+Author:      Isabella Persson
+*/
+
+img {
+  max-width: 100%;
+}
+body {
+    color: rgb(108,108,108);
+}
